@@ -1,2 +1,2 @@
 # ModelingValue
-Python script for Modeling Value in the Anthropocene
+Python script & corpus for Modeling Value in the Anthropocene 
